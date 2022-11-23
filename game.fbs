@@ -1,0 +1,6 @@
+include "math.fbs";
+
+table Game {
+	point: Vector2;
+	t: T;
+}
